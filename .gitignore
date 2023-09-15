@@ -1,0 +1,7 @@
+venv/
+.pytest_cahe
+**__pycahe__/
+db.sqlite3
+.env
+.coverage
+.vscode
